@@ -2,7 +2,7 @@
   "name": "suspension-rates-by-all-students",
   "datapackage_version": "1.0-beta.18",
   "title": "Suspension-Rates-by-All-Students",
-  "description": "Suspension Rate reports the percentage of students who have recieved at least one sanction (ISS, OSS, EXP) during a school year, for all students.",
+  "description": "Suspension Rate reports the percentage of students who have received at least one sanction (ISS, OSS, EXP) during a school year, for all students.",
   "version": "1.0",
   "licenses": [{
     "url": "http://opendatacommons.org/licenses/pddl/",
