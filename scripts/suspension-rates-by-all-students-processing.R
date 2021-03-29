@@ -140,7 +140,7 @@ complete_susp_rates_long <- complete_susp_rates_long %>%
 #Write CSV
 write.table(
   complete_susp_rates_long,
-  file.path(path_to_top_level, "data", "suspension_rates_all_students_2017.csv"),
+  file.path(path_to_top_level, "data", "suspension_rates_all_students_2020.csv"),
   sep = ",",
   row.names = F
 )
